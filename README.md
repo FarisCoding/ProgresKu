@@ -1,12 +1,18 @@
-# ProgresKu
-22 Februari 2023
-Belajar kelas Memulai dengan Git. (Progres 21%)
+# PengalamanBelajar
 
-* Belajar tentang apa itu Git dan alasan menggunakannya.
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-* Belajar tools yang dapat digunakan untuk menjalankan Git.
 
-23 februari 2023
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
